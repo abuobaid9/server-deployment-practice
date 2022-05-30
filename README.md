@@ -41,10 +41,10 @@
 
 ---
 
-Heroku dev link :(heroku1) [https://dashboard.heroku.com/apps/anas-server-deploy-dev/deploy/github]
+Heroku dev link :[Click here](https://dashboard.heroku.com/apps/anas-server-deploy-dev/deploy/github)
 
-Heroku main link : (heroku2) [https://dashboard.heroku.com/apps/anas-server-deploy-prod]
+Heroku main link : [Click here](https://dashboard.heroku.com/apps/anas-server-deploy-prod)
 
-Github Action link : (github1) [https://github.com/abuobaid9/server-deployment-practice/actions]
+Github Action link : [Click here](https://github.com/abuobaid9/server-deployment-practice/actions)
 
-Github pull requset link : (github2) [https://github.com/abuobaid9/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed]
+Github pull requset link : [Click here](https://github.com/abuobaid9/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed)
