@@ -36,3 +36,15 @@
 1. ACP on dev branch.
 2. after we check it passing all test Open a pull request from dev to main merge this branch Once the tests pass.
 3. Heroku will deploymy “main” branch to my “production” app!.
+
+## Links
+
+---
+
+Heroku dev link :(heroku1) [https://dashboard.heroku.com/apps/anas-server-deploy-dev/deploy/github]
+
+Heroku main link : (heroku2) [https://dashboard.heroku.com/apps/anas-server-deploy-prod]
+
+Github Action link : (github1) [https://github.com/abuobaid9/server-deployment-practice/actions]
+
+Github pull requset link : (github2) [https://github.com/abuobaid9/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed]
