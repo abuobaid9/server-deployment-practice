@@ -41,9 +41,9 @@
 
 ---
 
-Heroku dev link :[Click here](https://dashboard.heroku.com/apps/anas-server-deploy-dev/deploy/github)
+Heroku dev link :[Click here](https://anas-server-deploy-dev.herokuapp.com/)
 
-Heroku main link : [Click here](https://dashboard.heroku.com/apps/anas-server-deploy-prod)
+Heroku main link : [Click here](https://anas-server-deploy-prod.herokuapp.com/)
 
 Github Action link : [Click here](https://github.com/abuobaid9/server-deployment-practice/actions)
 
